@@ -186,9 +186,9 @@ function Checkout() {
 
                 currency: razorpayOrder.currency,
 
-                name: "Cartly",
+                name: "NexaCart",
 
-                description: "Cartly Order",
+                description: "NexaCart Order",
 
                 order_id: razorpayOrder.id,
 

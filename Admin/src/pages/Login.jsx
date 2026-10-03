@@ -73,12 +73,12 @@ function AdminLogin() {
 
                     <img
                         src={Logo}
-                        alt="Cartly"
+                        alt="NexaCart"
                         className="w-[38px] h-[38px] object-contain"
                     />
 
                     <span className="text-[22px] font-semibold tracking-tight">
-                        Cartly Admin
+                        NexaCart Admin
                     </span>
 
                 </div>
@@ -114,7 +114,7 @@ function AdminLogin() {
                             </h1>
 
                             <p className="text-[#9AA4B2] text-sm mt-2">
-                                Sign in to access your Cartly admin dashboard.
+                                Sign in to access your NexaCart admin dashboard.
                             </p>
 
                         </div>

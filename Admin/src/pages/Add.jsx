@@ -120,7 +120,7 @@ const Add = () => {
                         </h1>
 
                         <p className="mt-2 text-sm text-gray-400">
-                            Add a new product to your Cartly store
+                            Add a new product to your NexaCart store
                         </p>
                     </div>
 

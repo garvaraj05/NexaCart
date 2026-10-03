@@ -24,13 +24,13 @@ function Footer() {
                     <div>
 
                         <h2 className="text-2xl font-bold text-[#83D5D7]">
-                            Cartly
+                            NexaCart
                         </h2>
 
                         <p className="text-[#91A6A9] text-sm leading-6 mt-4 max-w-[280px]">
                             Discover products you'll love. Shop smart,
                             shop simple and enjoy a better shopping
-                            experience with Cartly.
+                            experience with NexaCart.
                         </p>
 
                         {/* Social Icons */}
@@ -162,7 +162,7 @@ function Footer() {
                                 />
 
                                 <span className="text-sm text-[#91A6A9]">
-                                    support@cartly.com
+                                    support@nexacart.com
                                 </span>
                             </div>
 
@@ -203,7 +203,7 @@ function Footer() {
                 <div className="max-w-[1200px] mx-auto px-6 md:px-10 py-5 flex flex-col sm:flex-row items-center justify-between gap-3">
 
                     <p className="text-xs text-[#687B7E]">
-                        © {new Date().getFullYear()} Cartly. All rights reserved.
+                        © {new Date().getFullYear()} NexaCart. All rights reserved.
                     </p>
 
                     <p className="text-xs text-[#687B7E]">

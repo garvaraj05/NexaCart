@@ -237,7 +237,7 @@ function Collections() {
                         uppercase
                         mb-2
                     ">
-                        Explore Cartly
+                        Explore NexaCart
                     </p>
 
 

@@ -222,7 +222,7 @@ function Nav() {
 
                         <img
                             src={Logo}
-                            alt="Cartly"
+                            alt="NexaCart"
                             className="
                                 w-[38px]
                                 h-[38px]
@@ -236,7 +236,7 @@ function Nav() {
                             font-bold
                             text-[#17363A]
                         ">
-                            Cartly
+                            NexaCart
                         </h1>
 
                     </div>

@@ -14,7 +14,7 @@ function About() {
                 <div className="max-w-[1100px] mx-auto text-center">
 
                     <p className="text-[#83D5D7] text-xs md:text-sm tracking-[4px] uppercase font-medium">
-                        ABOUT CARTLY
+                        ABOUT NEXACART
                     </p>
 
                     <h1 className="text-4xl md:text-6xl font-semibold mt-4">
@@ -23,7 +23,7 @@ function About() {
                     </h1>
 
                     <p className="text-[#91A6A9] text-sm md:text-base leading-7 max-w-[700px] mx-auto mt-6">
-                        Cartly is an e-commerce platform designed to make
+                        NexaCart is an e-commerce platform designed to make
                         online shopping simple, convenient and enjoyable.
                         Discover products, explore collections and shop
                         everything you need in one place.
@@ -45,11 +45,11 @@ function About() {
                         </p>
 
                         <h2 className="text-3xl md:text-4xl font-semibold mt-3">
-                            Welcome to Cartly
+                            Welcome to NexaCart
                         </h2>
 
                         <p className="text-[#91A6A9] leading-7 text-sm md:text-base mt-6">
-                            Cartly is built with the idea of bringing a
+                            NexaCart is built with the idea of bringing a
                             smooth and user-friendly shopping experience
                             to everyone. Our platform allows customers to
                             discover products, explore different categories
@@ -80,7 +80,7 @@ function About() {
                                 </div>
 
                                 <h3 className="text-2xl font-semibold mt-6">
-                                    Cartly
+                                    NexaCart
                                 </h3>
 
                                 <p className="text-[#91A6A9] text-sm mt-2">

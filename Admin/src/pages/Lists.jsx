@@ -80,7 +80,7 @@ const List = () => {
                         </h1>
 
                         <p className="mt-2 text-sm text-gray-400">
-                            Manage all products in your Cartly store
+                            Manage all products in your NexaCart store
                         </p>
                     </div>
 

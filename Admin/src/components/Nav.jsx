@@ -41,13 +41,13 @@ function Nav() {
             >
                 <img
                     src={Logo}
-                    alt="Cartly"
+                    alt="NexaCart"
                     className="w-11 h-11 object-contain"
                 />
 
                 <div>
                     <h1 className="text-[22px] font-semibold text-gray-800 leading-5">
-                        Cartly
+                        NexaCart
                     </h1>
 
                     <p className="text-[11px] text-gray-400 mt-1">

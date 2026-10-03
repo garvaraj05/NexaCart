@@ -73,7 +73,7 @@ function Contact() {
                                 </h3>
 
                                 <p className="text-[#91A6A9] text-sm mt-1">
-                                    support@cartly.com
+                                    support@nexacart.com
                                 </p>
                             </div>
 
@@ -228,7 +228,7 @@ function Contact() {
                 <div className="max-w-[700px] mx-auto text-center">
 
                     <h2 className="text-xl md:text-2xl font-semibold">
-                        Thank you for choosing Cartly
+                        Thank you for choosing NexaCart
                     </h2>
 
                     <p className="text-[#91A6A9] text-sm mt-3">

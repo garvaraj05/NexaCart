@@ -27,7 +27,7 @@ function Hero({ heroData, heroCount, setHeroCount }) {
 
                     {/* Small heading */}
                     <p className="text-[#B9E2DD] text-xs sm:text-sm font-semibold tracking-[3px] uppercase mb-4">
-                        Welcome to Cartly
+                        Welcome to NexaCart
                     </p>
 
 

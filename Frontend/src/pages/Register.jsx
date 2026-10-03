@@ -118,12 +118,12 @@ function Register() {
 
                     <img
                         src={Logo}
-                        alt="Cartly"
+                        alt="NexaCart"
                         className="w-[38px] h-[38px] object-contain"
                     />
 
                     <span className="text-[22px] font-semibold tracking-tight">
-                        Cartly
+                        NexaCart
                     </span>
 
                 </div>

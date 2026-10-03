@@ -15,7 +15,7 @@ function Background({ heroCount }) {
     return (
         <img
             src={backgrounds[heroCount]}
-            alt="Cartly collection"
+            alt="NexaCart collection"
             className="w-full h-full object-cover object-center"
         />
     );

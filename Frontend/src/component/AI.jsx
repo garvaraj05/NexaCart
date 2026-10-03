@@ -195,7 +195,7 @@ function AI() {
                         <div>
 
                             <h2 className="text-white font-semibold">
-                                Cartly AI
+                                NexaCart AI
                             </h2>
 
                             <p className="text-gray-400 text-xs">
